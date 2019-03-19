@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.16.0",
     "heroku": "^7.22.7",
-    "toolbelt": "^0.1.7"
+    "toolbelt": "^4.16.0"
   },
   "engines": {
-    "node": "5.3.0"
+    "node": "10.13.0"
   }
 }
