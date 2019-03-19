@@ -1,0 +1,17 @@
+{
+  "name": "haplessfriendfinder",
+  "version": "1.0.1",
+  "description": "find a friend, or a seal  node  express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "5.3.0"
+  }
+}
