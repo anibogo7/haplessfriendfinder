@@ -12,13 +12,14 @@ An app to find you a friend that is psychologically copatible.   Take the quiz a
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out [here](https://fierce-fortress-60021.herokuapp.com/).
+*Friend Finder* is deployed to Heroku. Please check it out [here](https://heroku.com/mighty-cliffs-34800.git
+).
 
 ## Installation
 
 To install the application follow the instructions below:
 
-	git clone git@github.com:anibogo7/friend-finder.git
+	git clone git@github.com:anibogo7/haplessfriendfinder.git
 	cd friend-finder
 	npm install
 	

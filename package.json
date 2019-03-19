@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "heroku": "^7.22.7",
+    "toolbelt": "^0.1.7"
   },
   "engines": {
     "node": "5.3.0"
