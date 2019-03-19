@@ -18,7 +18,7 @@ An app to find you a friend that is psychologically copatible.   Take the quiz a
 
 To install the application follow the instructions below:
 
-	git clone git@github.com:angrbrd/friend-finder.git
+	git clone git@github.com:anibogo7/friend-finder.git
 	cd friend-finder
 	npm install
 	
